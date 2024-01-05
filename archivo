@@ -1,1 +1,6 @@
-[{"name": "Ricardo", "lastName": "Charry"},{"name": "Andres", "lastName": "Belen"},{"name": "Miguel", "lastName": "Hernandez"}]
+[
+{"productImg": "https://img.freepik.com/foto-gratis/retrato-abstracto-ojo-elegancia-mujeres-jovenes-generado-ai_188544-9712.jpg?w=826&t=st=1704471309~exp=1704471909~hmac=011502ff86a9bea44ea57a48777d0934b46e6eb7c41739f7a91ccd07b37db4b8", 
+"productName": "Ejemplo1"},
+{"productImg": "https://img.freepik.com/foto-gratis/collage-retratos-psicodelicos_23-2149303459.jpg?w=740&t=st=1704471480~exp=1704472080~hmac=1289a4acc9da3523900c79109a177655306c6cfe92d6ce8dca8d3fb22078af73", 
+"productName": "Ejemplo2"}
+]
